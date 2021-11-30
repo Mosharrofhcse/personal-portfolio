@@ -1,6 +1,6 @@
 {
-  "name": "personal-portfolio-website",
-  "homepage": "https://mosharrofhcse.github.io/personal-portfolio-website/",
+  "name": "personal-portfolio",
+  "homepage": "https://mosharrofhcse.github.io/personal-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

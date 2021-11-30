@@ -1,6 +1,6 @@
 import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
-import myImg from '../../images/my-img-1.png';
+import myImg from '../../images/image-2.jpg';
 import './About.css'
 
 const About = () => {
@@ -16,18 +16,18 @@ const About = () => {
                     <Col lg={7} md={7}>
                         <div className="about-info">
                             <ul>
-                                <li>First Name <span>poly</span></li>
-                                <li>Last Name <span>khatun</span></li>
-                                <li>Birthdate <span>7 Feb 1998</span></li>
+                                <li>First Name <span>Mosharrof</span></li>
+                                <li>Last Name <span>Hossen</span></li>
+                                <li>Birthdate <span>15 Oct 1986</span></li>
                                 <li>Nationality <span>Bangladesi</span></li>
                                 <li>Experience <span>1 year+</span></li>
                             </ul>
                             <ul>
                                 <li>Address <span>dhaka</span></li>
                                 <li>Langages <span>bangla, english</span></li>
-                                <li>Phone <span>+8801749695166</span></li>
-                                <li>Email <span>poly.khatun2141@gmail.com</span></li>
-                                <li>Github <span>https://github.com/mariyapoly</span></li>
+                                <li>Phone <span>+8801684669397</span></li>
+                                <li>Email <span>mosharrofhcse@gmail.com</span></li>
+                                <li>Github <span>https://github.com/mosharrofhcse</span></li>
                             </ul>
                         </div>
                         <div className="about-btn">
